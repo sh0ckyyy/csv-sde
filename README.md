@@ -18,3 +18,7 @@
   'char:  name(50),gender(1),birthday(50),region(50) - numbers represents preset maximum ( can be changed )
   'double: test1,2,3,4,5,6
 ```
+## Authors
+
+- [@sh0ckyyy](https://github.com/sh0ckyyy)
+
